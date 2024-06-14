@@ -9,6 +9,6 @@ npm install cypress :  this installs cypress in your project
 npx cypress open :  This opens cypress in UI mode you probably want to try this our as a beginner 
 
 
-npx cypress run { to the cypress 
+npx cypress run { to the cypress vir terminal without GUI and 
 
 # Trello_automation
