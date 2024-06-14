@@ -1,4 +1,4 @@
-#Key commands to follow 
+# Key commands to follow 
 
 node -v : to check your current Node version}  
 
